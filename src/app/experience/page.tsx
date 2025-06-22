@@ -13,7 +13,7 @@ export default function ExperiencePage() {
           <li>Developed automation for installation/uninstallation of AnyConnect modules from scratch.</li>
           <li>Created client-server tool to optimize test suite runtime.</li>
           <li>Developed log parsing libraries for Windows, Mac, and Linux clients.</li>
-          <li>Completed automation for "revert to latest snapshot" project.</li>
+          <li>Completed automation for &quot;revert to latest snapshot&quot; project.</li>
           <li>Collaborated with stakeholders and worked in Agile methodologies.</li>
         </ul>
       </section>
